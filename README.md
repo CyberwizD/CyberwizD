@@ -118,7 +118,7 @@ Security-focused Software Engineer specialized in Application Security and Softw
 
 </div>
 
-## 🛠️ Asernal
+## 🏆 Asernal
 
 <div align="center">
 
