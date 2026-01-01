@@ -9,15 +9,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4E54C8&center=true&vCenter=true&random=false&width=600&lines=Backend+Software+Engineer+%7C;Building+Secure+%26+Scalable+Systems;Open+to+Collaborate+on+Cool+Projects!)](https://git.io/typing-svg)
 
 </div>
-
+  
 ## 🎯 About
-
-Security-focused Software Engineer specialized in Application Security and Software Engineering. Spent the last 2+ years shipping production code, Proficient in Python (automation, AI) and Golang (backend, APIs), built a wide range of custom security tools, software, and automation scripts to support development and security objectives. Passionate about creating secure, scalable, and efficient solutions that make a real impact.
+  
+Security-focused Software Engineer specialized in Application Security and Software Engineering. Spent the last 2+ years shipping production code. Proficient in Python (automation, AI) and Golang (backend, APIs). Built a wide range of custom security tools, software, and automation scripts to support development and security objectives. Passionate about creating secure, scalable, and efficient solutions that make a real impact.
 
 **Right now:** 
 - Engineering at **Stratify** (a powerful platform designed for social media managers, influencers who need to analyze and manage their social media presence across multiple platforms from a single dashboard) 
 - Shipped **Xnoise** (production-ready mobile app for real-time noise monitoring) 
-- Exploring DevOps
+- Exploring **DevOps**
 
 ## 🛠️ Core Stack
 
@@ -105,15 +105,16 @@ Security-focused Software Engineer specialized in Application Security and Softw
 
 <div align="center">
   
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberwizD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberwizD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CyberwizD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberwizD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberwizD&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberwizD&theme=tokyo-night&hide_border=true&area=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberwizD&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberwizD&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -128,7 +129,11 @@ Security-focused Software Engineer specialized in Application Security and Softw
 
 </div>
 
-<img src="https://skillicons.dev/icons?i=go,py,c,bash&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,fastapi&theme=dark" /><img src="https://skillicons.dev/icons?i=linux,aws,nginx,grafana,prometheus&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberwizD&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=ffffff" width="100%" />
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=go,py,c,bash,postgres,redis,mongodb,docker,fastapi,linux,aws,nginx,grafana,prometheus,git&theme=dark" />
+
+</div>
 
 ## 🤝 Let's Connect
 
