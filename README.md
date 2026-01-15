@@ -114,8 +114,7 @@ Security-focused Software Engineer specialized in Application Security and Softw
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberwizD&theme=tokyo-night&hide_border=true&area=true" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberwizD&theme=tokyonight" width="48%" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberwizD&theme=tokyonight&hide_border=true" width="48%" /> -->
-https://github-readme-streak-stats.herokuapp.com/?user=CyberwizD
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberwizD&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
