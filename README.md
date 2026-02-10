@@ -10,7 +10,7 @@
 
 </div>
   
-## 🎯 What I'm doing
+## What I'm doing
   
 > Security-focused Software Engineer specialized in Application Security and Software Engineering. Spent the last 2+ years shipping production code. Proficient in Python (automation, AI) and Golang (backend, APIs). Built a wide range of custom security tools, software, and automation scripts to support development and security objectives. Passionate about creating secure, scalable, and efficient solutions that make a real impact.
 
@@ -20,7 +20,7 @@
 - Shipped **PixSync** (production-ready mobile app for instant sync of photos and videos in a shared session)
 - Exploring **DevOps**
 
-## 🛠️ Core Stack
+## Core Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-## 🚀 Featured Work
+## Featured Work
 - 🛡️ [ZerroZ](https://zerroz.vercel.app) - Zero Trust Semantic Gateway
 
 - 📊 [Stratify](https://stratify-dev.vercel.app) - Content Management Platform  
@@ -59,7 +59,7 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -76,7 +76,7 @@
 
 </div>
 
-## 🏆 Asernal
+## Asernal
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
