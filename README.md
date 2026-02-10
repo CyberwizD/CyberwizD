@@ -12,7 +12,7 @@
   
 ## 🎯 What I'm doing
   
-Security-focused Software Engineer specialized in Application Security and Software Engineering. Spent the last 2+ years shipping production code. Proficient in Python (automation, AI) and Golang (backend, APIs). Built a wide range of custom security tools, software, and automation scripts to support development and security objectives. Passionate about creating secure, scalable, and efficient solutions that make a real impact.
+> Security-focused Software Engineer specialized in Application Security and Software Engineering. Spent the last 2+ years shipping production code. Proficient in Python (automation, AI) and Golang (backend, APIs). Built a wide range of custom security tools, software, and automation scripts to support development and security objectives. Passionate about creating secure, scalable, and efficient solutions that make a real impact.
 
 **Right now:** 
 - Engineering at **ZerroZ** (the world’s first Zero Trust Semantic Gateway designed specifically for the AI era, a proxy that understands the meaning of a prompt, not just the keywords.)
