@@ -10,7 +10,7 @@
 
 </div>
   
-## 🎯 About
+## 🎯 What I'm doing
   
 Security-focused Software Engineer specialized in Application Security and Software Engineering. Spent the last 2+ years shipping production code. Proficient in Python (automation, AI) and Golang (backend, APIs). Built a wide range of custom security tools, software, and automation scripts to support development and security objectives. Passionate about creating secure, scalable, and efficient solutions that make a real impact.
 
@@ -43,58 +43,15 @@ Security-focused Software Engineer specialized in Application Security and Softw
 </div>
 
 ## 🚀 Featured Work
+- 🛡️ [ZerroZ](https://zerroz.vercel.app) - Zero Trust Semantic Gateway
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 📊 [Stratify](https://stratify-dev.vercel.app) - Content Management Platform  
 
-### 📊 Stratify - **Content Management Platform**  <a href="https://stratify-dev.vercel.app"> <img src="https://img.shields.io/badge/Live-4CAF50?style=flatsquare&logo=checkmarx&logoColor=white" alt="Live"/></a>
+- 🔊 [Xnoise](https://xnoise.vercel.app) - Real-time Noise Monitoring  
 
-<img width="1357" height="650" alt="image" src="https://github.com/user-attachments/assets/c5d0cbc3-b36a-4516-ad11-3d59f209c2e9" />
-<br>
-<br>
+- 💊 [MediRecommend](https://github.com/CyberwizD/Drug-Recommendation-System) - ML-Based Drug Recommendation System 
 
-**Tools/Technologies Used** - `Go` `PostgreSQL` `Redis` `Event-Driven` `OAuth2`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔊 Xnoise - **Real-time Noise Monitoring**  <a href="https://xnoise.vercel.app"> <img src="https://img.shields.io/badge/Live-4CAF50?style=flatsquare&logo=checkmarx&logoColor=white" alt="Live"/></a>
-
-<img width="1348" height="686" alt="image" src="https://github.com/user-attachments/assets/8b384000-252e-479c-89d8-392be48aecaa" />
-<br>
-<br>
-
-**Tools/Technologies Used** - `React Native` `Expo Go` `Webhook` `SQLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 MediRecommend - **ML-Based Drug Recommendation System** <a href="https://github.com/CyberwizD/Drug-Recommendation-System"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<img width="1365" height="685" alt="image" src="https://github.com/user-attachments/assets/f4ef2f06-c84a-4b8e-8a58-5b46129119f0" />
-<br>
-<br>
-
-**Tools/Technologies Used** - `Python` `LightGBM` `VADER` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ CyberSpace Network Inspector - **Monitor and visualize real-time network traffic** <a href="https://github.com/CyberwizD/CyberSpace"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<img width="1365" height="651" alt="image" src="https://github.com/user-attachments/assets/274adafa-9b83-4d57-9eb4-ed4eea9040ec" />
-
-<br>
-<br>
-
-**Tools/Technologies Used** - `Python` `Flet` `OWASP ZAP` `Nmap`
-
-</td>
-</tr>
-</table>
+- 🛡️ [CyberSpace Network Inspector](https://github.com/CyberwizD/CyberSpace) - Monitor and visualize real-time network traffic
 
 <div align="center">
   
