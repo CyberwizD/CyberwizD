@@ -16,7 +16,7 @@ Security-focused Software Engineer specialized in Application Security and Softw
 
 **Right now:** 
 - Engineering at **ZerroZ** (the world’s first Zero Trust Semantic Gateway designed specifically for the AI era, a proxy that understands the meaning of a prompt, not just the keywords.)
-- Shipped **Xnoise** (production-ready mobile app for real-time noise monitoring)
+- Shipped **Xnoise** (production-ready mobile app for real-time noise monitoring during quiet times)
 - Shipped **PixSync** (production-ready mobile app for instant sync of photos and videos in a shared session)
 - Exploring **DevOps**
 
